@@ -5,7 +5,7 @@
 - 🎓 Graduated in Business Management and Organizational Studies with a specialization in Consumer Behaviour.
 - 🌟 Successfully launched a social media campaign to secure my first role at Loblaw Companies Limited, demonstrating creativity and persistence.
 - 💼 Currently seeking new opportunities after recent layoffs, passionate about front-end development and exploring full-stack web development.
-- 💻 Skilled in HTML, CSS, JavaScript, with familiarity in TypeScript, Node.js, and Express.
+- 💻 Skilled in HTML, CSS, JavaScript, familiarity with React, TypeScript, Node.js, and Express.
 - 🤝 Values work relationships and excels in cross-functional collaboration
 
 <!--
