@@ -1,5 +1,7 @@
 ## Hi, I'm Justin!
 
+<!--
+
 #### About Me
 
 - 🎓 Graduated in Business Management and Organizational Studies with a specialization in Consumer Behaviour.
@@ -8,7 +10,6 @@
 - 💻 Skilled in HTML, CSS, JavaScript, familiarity with React, TypeScript, Node.js, and Express.
 - 🤝 Values work relationships and excels in cross-functional collaboration
 
-<!--
 **justinbansal/justinbansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
